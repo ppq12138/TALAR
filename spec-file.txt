@@ -1,0 +1,21 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+@EXPLICIT
+https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/ca-certificates-2022.10.11-h06a4308_0.tar.bz2
+https://mirror.nju.edu.cn/anaconda/pkgs/main/linux-64/libstdcxx-ng-11.2.0-h1234567_1.tar.bz2
+https://mirror.nju.edu.cn/anaconda/pkgs/main/linux-64/libgcc-ng-11.2.0-h1234567_1.tar.bz2
+https://mirror.nju.edu.cn/anaconda/pkgs/main/linux-64/libffi-3.2.1-hf484d3e_1007.tar.bz2
+https://mirror.nju.edu.cn/anaconda/pkgs/main/linux-64/ncurses-6.3-h5eee18b_3.tar.bz2
+https://mirror.nju.edu.cn/anaconda/pkgs/main/linux-64/openssl-1.0.2u-h7b6447c_0.tar.bz2
+https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/xz-5.2.6-h5eee18b_0.tar.bz2
+https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/zlib-1.2.13-h5eee18b_0.tar.bz2
+https://mirror.nju.edu.cn/anaconda/pkgs/main/linux-64/libedit-3.1.20210910-h7f8727e_0.tar.bz2
+https://mirror.nju.edu.cn/anaconda/pkgs/main/linux-64/readline-7.0-h7b6447c_5.tar.bz2
+https://mirror.nju.edu.cn/anaconda/pkgs/main/linux-64/tk-8.6.12-h1ccaba5_0.tar.bz2
+https://mirror.nju.edu.cn/anaconda/pkgs/main/linux-64/sqlite-3.33.0-h62c20be_0.tar.bz2
+https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/python-3.7.0-h6e4f718_3.tar.bz2
+https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/certifi-2022.9.24-py37h06a4308_0.tar.bz2
+https://mirror.nju.edu.cn/anaconda/pkgs/main/noarch/wheel-0.37.1-pyhd3eb1b0_0.tar.bz2
+https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/setuptools-65.5.0-py37h06a4308_0.tar.bz2
+https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/linux-64/pip-22.2.2-py37h06a4308_0.tar.bz2
